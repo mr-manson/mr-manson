@@ -30,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-manson&show_icons=true&theme=synthwave&title_color=ffffff&text_color=ffffff&bg_color=22272e&locale=en&layout=compact" alt="mr-manson" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-manson&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=22272e&locale=en" alt="mr-manson" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mr-manson&mode=weekly&background=22272E&currStreakNum=B79A4A&ring=B79A4A&fire=B79A4A&sideNums=FFFFFF&stroke=FFFFFF68&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+<!--- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3x7z1w9s5k7e5g5gqt5vw3wiz&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=b79a4a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
