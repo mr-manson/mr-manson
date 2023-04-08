@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" src="https://github.com/mr-manson/mr-manson/blob/main/github-header-image.png" alt="html5"/> </p>
+<p align="center"> <img align="center" src="https://github.com/mr-manson/mr-manson/blob/main/github-header-image-small.png" alt="header"/> </p>
 
 
 
