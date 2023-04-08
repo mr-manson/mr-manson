@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Oleg</h1>
-<h3 align="center">A passionate frontend developer from Belarus</h3>
+<p align="center"> <img align="center" src="https://github.com/mr-manson/mr-manson/blob/main/github-header-image.png" alt="html5"/> </p>
+
+
+
+
+<!--- <h1 align="center">Hi, I'm Oleg</h1>
+<h3 align="center">A passionate frontend developer from Belarus</h3> -->
 
 - 🌱 I’m currently learning **React**
 
