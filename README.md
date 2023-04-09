@@ -3,8 +3,8 @@
 <!--- <h1 align="center">Hi, I'm Oleg</h1>
 <h3 align="center">A passionate frontend developer from Belarus</h3> -->
 
-<p align="center">- 🌱 I’m currently learning **React**</p>
-<p align="center">- 📫 How to reach me **nikola777jr@gmail.com**</p>
+<p align="center">🌱 I’m currently learning <strong>React</strong></p>
+<p align="center">📫 How to reach me <strong>nikola777jr@gmail.com</strong></p>
 
 ---------
 
