@@ -32,7 +32,7 @@
 -->
 
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=mr-manson&show_icons=true&theme=radical&hide=issues,contribs&hide_border=true&ring_color=B79A4A&title_color=ffffff&text_color=ffffff&bg_color=22272e&locale=en" alt="mr-manson">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=mr-manson&show_icons=true&hide_border=true&hide=java&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=22272e&locale=en&layout=compact" alt="mr-manson">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mr-manson&show_icons=true&theme=radical&hide=issues,contribs&hide_border=true&ring_color=B79A4A&title_color=ffffff&text_color=ffffff&bg_color=FFFFFF00&locale=en" alt="mr-manson">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs?username=mr-manson&show_icons=true&hide_border=true&hide=java&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=FFFFFF00&locale=en&layout=compact" alt="mr-manson">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mr-manson&theme=radical&background=22272E&currStreakNum=B79A4A&ring=B79A4A&fire=B79A4A&sideNums=FFFFFF&stroke=FFFFFF68&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=FFFFFF00">
 </p>
