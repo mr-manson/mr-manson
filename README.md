@@ -13,6 +13,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" align="center" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" align="center" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452045/js.svg" align="center" alt="javascript" width="35" height="35"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" align="center" alt="typescript" width="35" height="35"/></a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" align="center" alt="sass" width="40" height="40"/></a>
   <a href="https://www.gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303440/gulp-logo.svg" alt="gulp" align="center" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" align="center" width="40" height="40"/></a>
